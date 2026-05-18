@@ -31,9 +31,6 @@
 ## 📌 About
 
 **FULL-AUTO** is a Python-based WiFi deauthentication tool that exploits the unauthenticated nature of 802.11 deauth frames to disconnect clients from a target access point. Built entirely in Python using Scapy, it runs purely in the terminal with no GUI required.
-
-Built as a final university project, inspired by [flashnuke/wifi-deauth](https://github.com/flashnuke/wifi-deauth) with additional features on top.
-
 ---
 
 ## ✨ Features
