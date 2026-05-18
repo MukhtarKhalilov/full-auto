@@ -201,6 +201,6 @@ full-auto/
 
 <div align="center">
 
-Made for academic purposes · Final University Project
+Made for academic purposes / Playing around
 
 </div>
