@@ -105,7 +105,11 @@ sudo python3 full-auto.py -i wlan0 --kill --deauth-all-channels
 ```bash
 sudo python3 full-auto.py -i wlan0 --kill --clients AA:BB:CC:DD:EE:FF
 ```
-
+### Solving Network Problems
+```bash
+sudo systemctl start NetworkManager
+sudo systemctl restart NetworkManager #if the previous one does not work 
+```
 ---
 
 ## 💾 Target Persistence (New Feature)
