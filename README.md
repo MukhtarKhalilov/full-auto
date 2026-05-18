@@ -66,7 +66,7 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/full-auto.git
+git clone https://github.com/MukhtarKhalilov/full-auto.git
 cd full-auto
 
 # Install the only dependency
